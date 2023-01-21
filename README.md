@@ -14,7 +14,7 @@ At the moment "Rowan Linux" is under development, but we <br> have concepts for 
 
 ![alt text](https://github.com/SetScript/RowanLinux/blob/main/concept.png?raw=true)
 
-This is first concept, but in system will better.
+This is first concept, but in system will better. <br> <br> <br> <br>
 The concept of the desktop picture
 ![alt text](https://github.com/SetScript/RowanLinux/blob/main/wpc_Lightmode.png?raw=true)
 
